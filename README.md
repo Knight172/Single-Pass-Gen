@@ -7,6 +7,8 @@
 ```
 # cd Desktop
 # git clone https://github.com/Knight172/Single-Pass-Gen.git
+# cd Single-Pass-Gen
+# chmod +x chmod +x Single_Pass_Gen.py
 # python Single_Pass_Gen.py
 ```
 
